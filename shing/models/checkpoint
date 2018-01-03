@@ -1,0 +1,6 @@
+model_checkpoint_path: "prod2vec_skip_gram-120000"
+all_model_checkpoint_paths: "prod2vec_skip_gram-40000"
+all_model_checkpoint_paths: "prod2vec_skip_gram-60000"
+all_model_checkpoint_paths: "prod2vec_skip_gram-80000"
+all_model_checkpoint_paths: "prod2vec_skip_gram-100000"
+all_model_checkpoint_paths: "prod2vec_skip_gram-120000"
